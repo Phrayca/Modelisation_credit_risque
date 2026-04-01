@@ -1,8 +1,5 @@
-Aperçu du projet
-Ce projet vise à développer un modèle avancé de risque de crédit. Ce modèle prédit la probabilité de défaut des emprunteurs et classe les demandes de prêt en catégories : Faible, Moyen, Bon et Excellent, en s'inspirant du système de notation CIBIL.
-
-Caractéristiques
-1°) Modèle prédictif basé sur les données historiques de prêts et les indicateurs de défaut.
+Ce projet vise à développer un modèle avancé de risque de crédit. Ce modèle prédit la probabilité de défaut des emprunteurs et classe les demandes de prêt en catégories : Faible, Moyen, Bon et Excellent, en s'inspirant du système de notation CIBIL. 
+°) Modèle prédictif basé sur les données historiques de prêts et les indicateurs de défaut.
 
 2°) Scorecard dynamique pour classifier les risques de crédit.
 
@@ -16,4 +13,3 @@ Pile technique
 3°) Machine Learning : Modélisation de risque de crédit, scorecard
 
 Image de l'interface
-Logo du projet
